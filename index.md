@@ -1,6 +1,7 @@
 <h1> Welcome To The Store<h1>
 <br>
-
+ <p>Go To Bottom Of Page Befdore Buying Anything Here</p>
+ <br>
  <p>items-</p>
  <p>£2 - Derp Skin Pack</p>
  <p>preview</p>
