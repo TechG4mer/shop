@@ -1,14 +1,15 @@
 <h1> Welcome To The Store<h1>
 <br>
+  <p>note: Items In Beat May Change IN Price And In Content</p>
 
 <p>items-</p>
 <p>£2 - Derp Skin Pack</p>
 <p>preview</p>
 <img src="DerpGangSkinPackPreview.png" alt="DerpGangSkinPackPreview">
-<br>
-<p>£0.50 - Minigames Skins (more skins soon and price may increace)</p>
+<p>
+<p>£0.50 - Minigames Beta Skins</p>
 <p>preview</p>
-<img src="DerpGangSkinPackPreview.png" alt="DerpGangSkinPackPreview">
+<img src="Minigamesbetaskins.png" alt="MinigamesbetakinPackPreview">
 <br>
 <br>
 <p> please email 'store@techg4mer.com' to make a purchace</p>
