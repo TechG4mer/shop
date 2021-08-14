@@ -10,7 +10,7 @@
  <p>
  <p>£0.50 - Minigames Beta Skins</p>
  <p>preview</p>
- <img src="Minigamesbetaskins.png" alt="MinigamesbetakinPackPreview">
+ <img src="Minigamesbetaskins1.png" alt="MinigamesbetaSkinPackPreview">
 <br>
 <br>
  <p> please email 'store@techg4mer.com' to make a purchace</p>
