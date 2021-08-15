@@ -5,7 +5,7 @@
  <p>items-</p>
  <p>£2 - Derp Skin Pack</p>
  <p>preview</p>
- <img src="DerpGangSkinPackPreview1.png" alt="DerpGangSkinPackPreview">
+ <img src="DerpGangSkinPackPreview2.png" alt="DerpGangSkinPackPreview">
  <p>
  <p>£0.50 - Minigames Beta Skins</p>
  <p>preview</p>
